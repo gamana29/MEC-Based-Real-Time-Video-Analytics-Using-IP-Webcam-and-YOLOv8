@@ -211,3 +211,25 @@ cap = cv2.VideoCapture(0)
 ip_url = "http://192.168.x.x:8080/video"
 cap = cv2.VideoCapture(ip_url)
 ```
+---
+### 🤝 Contributing
+
+Contributions are welcome! You can:
+
+Report issues 🐛
+
+Suggest new analysis features 💡
+
+Submit pull requests 📬
+
+---
+
+### 📜 License
+
+This project is licensed under the MIT License. See LICENSE for details.
+
+Made with 💻 by Gamana
+Explore more at https://github.com/gamana29
+
+
+--- 
