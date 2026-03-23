@@ -1,9 +1,20 @@
-install/
+# Python virtual environment
+venv/
+bin/
+lib/
+lib64/
+include/
+share/
+pyvenv.cfg
 
-# This directory is fetched during first build and is present in this directory
-subprojects/freeDiameter
-subprojects/libtins
-subprojects/prometheus-client-c
-subprojects/usrsctp
+# Python cache
+__pycache__/
+*.pyc
 
-webui/.next
+# ML / YOLO outputs
+runs/
+data/
+models/*.pt
+
+# OS
+.DS_Store
