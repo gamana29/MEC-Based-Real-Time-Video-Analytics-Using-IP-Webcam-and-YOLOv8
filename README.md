@@ -9,7 +9,7 @@
 [![Edge AI](https://img.shields.io/badge/AI-Edge%20Computing-success)]()
 [![Realtime](https://img.shields.io/badge/Mode-RealTime-orange)]()
 
----
+
 
 ---
 
